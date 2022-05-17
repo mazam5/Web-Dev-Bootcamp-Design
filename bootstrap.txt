@@ -1,0 +1,17 @@
+576, 768,990
+navbar
+navbar-expand-lg
+bg-dark
+navbar-dark
+container
+navbar-brand
+navbar-toggler
+navbar-toggler-icon
+collapse
+navbar-collapse
+navbar-nav
+nav-link
+nav-item
+ms-auto
+d-flex
+p-5,pt-5,px-5,py-5
